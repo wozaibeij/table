@@ -1,0 +1,19 @@
+html,
+body,
+.te{
+  height: 100%;
+}
+.te{
+  display: flex;
+  flex-direction: column;
+  
+}
+.ta {
+  overflow: auto;
+}
+
+
+#app{
+  margin-top: 0;
+  height: 100%;
+}
